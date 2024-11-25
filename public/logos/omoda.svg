@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" stroke="black" stroke-width="10" fill="none"/>
+  <text x="50%" y="45%" text-anchor="middle" font-family="Arial" font-size="40" fill="black">MO</text>
+  <text x="50%" y="65%" text-anchor="middle" font-family="Arial" font-size="40" fill="black">DA</text>
+  <text x="50%" y="90%" text-anchor="middle" font-family="Arial" font-size="24" fill="black">OMODA</text>
+</svg>
